@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+-<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8"><name>wireAPI</name><id>wireAPI</id><description>show and like wires</description><author>barobach</author><version>1.11</version><license>GNU General Public License Version 2</license><activate_on_install>true</activate_on_install>-<requires><type>elgg_release</type><version>1.11</version></requires></plugin_manifest>
